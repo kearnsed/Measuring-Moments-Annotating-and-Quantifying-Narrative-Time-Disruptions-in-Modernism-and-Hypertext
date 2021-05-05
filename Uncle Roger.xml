@@ -1,0 +1,2625 @@
+<text>
+
+<!-- Could also use "id" as an attribute instead of "title". Making <div> higher than <analepsis> allows
+for flexibility as to whether the entire lexia is an analepsis (or prolepsis) or not.
+This implies that there can be a unviersal time-setting across multiple lexias.
+In the case of Uncle Roger, this time settng is Jenny sitting in the garage room remembering the party.
+At least for the first section of the work.
+But how to practically account for the fact that any lexia can be an analepsis or a prolepsis or both?
+Need a map of which lexias are linked to from which lexias.
+Also need to add to schema: the ability to nest analepsis and prolepsis inside one another. -->
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party1.html">
+<analepsis>I drank too much red wine.</analepsis>
+The Broadthrow's party is looping in my mind,
+nested with brief dreams and nightmares.
+
+<analepsis>I dreamed that Jeff and I were in bed.
+He was running his hands up and down my body.
+He put his tongue in my mouth. His hands were on my breasts.
+He ran his fingers down the inside of my thighs.
+We made love.
+
+In the morning, he wanted a cheese omlette,
+but there was no cheese in the refrigerator.</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party2.html">
+<analepsis>When the party began, the plastic cover
+was removed from the white couch.
+Mrs Broadthrow was wearing a lime green silk suit
+that I had just picked up for her at the cleaners.
+Her blouse was white silk with a plunging neckline. Gold earrings
+framed her finely chiseled face.</analepsis>
+Her name is Louise.
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party3.html">
+It's September in Woodside, California
+where I've been for two weeks with the Broadthrow family.
+They say that strange cloying smell
+is Eucalyptus.
+
+I'm the live-in babysitter for Caroline Broadthrow.
+
+My name is Jenny.
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party4.html">
+My room at the house in Woodside is in the back of the garage
+where Tom and Louise keep their two Mercedes.
+It is a small room, wallpapered with peeling seascapes.
+A window looks out on an area of sagebrush and brown grass
+where <analepsis>two nights ago, I looked out and saw Uncle Roger.
+Together under a full moon, he and a woman I had never seen before
+were looking at a floor plan of the Broadthrow's home.
+I heard him whisper loudly: "It is a warm California evening.
+Let us take off our clothes and make love on the ground."</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party5.html">
+<analepsis>I remembered a round tray of buffalo chicken wings
+on a marble coffee table, beside a silver candle holder bearing pink candles.
+Uncle Roger eating chicken wings, one after another,
+putting the bones in a small pile
+beside coffee table books about Michelangelo and Rembrandt.</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party6.html">
+<analepsis>Louise buying olives at a Greek Delicatessen.
+The man behind the counter couldn't take his eyes off her.
+The perfectly waved blond hair,
+the deep glance from her brown eyes
+- like an unexpected thaw in early spring
+exposing bare but promising earth.</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party7.html">
+<prolepsis>I dreamed I lived with Louise
+on a long boat-like dock in the harbor.
+The place was called Trinnywind
+or Tinnywild or something like that.
+It was on the Eastern Seacoast
+(because the view to the water wasn't reversed
+the way it seemed on Western beaches).</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party8.html">
+<prolepsis>We all went out to lunch in Trinnywind.
+Louise seated us at a dining table with chairs between us.
+I was opposite a girl with short, neat brown hair
+and a small white coller on her red plaid dress.
+She didn't talk to me. I didn't talk to her.</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party9.html">
+<prolepsis>In the dream, I walked around the town of Trinnywind.
+I had never seen it before.
+There was a long straight street through the center of the town.
+Like a scene of the canals in Amsterdam,
+black brick buildings with crenelated facades
+were situated close together on either side of the street.
+In front of the main building was a small square black fountain.
+The buildings had large glass windows,
+like a row of black mirrors all along the street.</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party10.html">
+<prolepsis>There is a funny feeling in my stomach,
+and I can't erase Jeff's image. It hovers over my bed</prolepsis>
+<analepsis>like the image of God when I said the prayer
+that began "Heavenly father hear my prayer, keep me in your loving care"
+and lay in bed in the house in Massachusets.
+
+God was a sort of long, dark man
+who hovered horizontally over me
+and had no face.</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party11.html">
+<prolepsis>Uncle Roger usually wears tweed suits which look
+as if he has had them for a long time.
+He is short and plump,</prolepsis> <analepsis>and when I was younger,
+I thought that his briefcase was glued to his right hand.
+Because one day when we picked him up at the station,
+he said to my Mother: "Given that I live on the train,
+I wish that they would serve martinis,"
+I also thought
+that he lived on the Boston &amp; Maine.</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party12.html">
+<prolepsis>One evening in California, Uncle Roger invited me to his home.
+We sat in the living room; the walls were painted tan
+and there were requests for funding for unusual inventions
+in piles on the tables.
+He took a long, white package out of his pocket.</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party13.html">
+<prolepsis>The party was about to begin.
+In a pink dress with pearl buttons and roses embroidered on the hem,
+Caroline was sitting on the white couch. She was drinking gingerale
+and crumbling a small cocktail napkin into her lap.</prolepsis>
+<analepsis>("Carnitas with extra sour cream and guacamole.
+"Would you like a bite?" Uncle Roger had asked)</analepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party14.html">
+<prolepsis>I wore my grey skirt with the wide waist band,
+that makes my waist look smaller than it really is,
+and a blue silk shirt that makes my eyes look devastatingly blue.
+<analepsis>I had given myself a bad haircut.</analepsis></prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party15.html">
+<prolepsis><analepsis>I had put some perfume on under my breasts.</analepsis>
+My shoes were silver flats; my socks were the blue of my shirt.
+
+Mark, who was 16, was in the bathroom with the door open.
+looking at himself in the mirror.
+
+He asked me to come in and help him with his tie.</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party16.html">
+<prolepsis>The doorbell was ringing. Guests were arriving.
+Tom Broadthrow was standing by the front door,
+dressed casually, as usual, in white pants and a blue and tan checked shirt.
+
+Caroline's cat Puffy jumped up on the table
+and licked a long salmon and cream cheese roll.
+I picked her up. She put her tail in the clam dip.
+No one noticed.</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party17.html">
+<prolepsis>
+In this dream, I was on a pullman train with Jeff.
+It was like <analepsis>the train I took to Washington, DC with my Mother and Aunt Sally
+when I was in Junior High.</analepsis>
+Jeff and I were in the top bunk.
+I put my hands on his body. It was dark,
+and the train rocked gently on the tracks
+as it moved swiftly along towards San Francisco.
+</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party18.html">
+<prolepsis>I dreamed that Jeff and I were standing in a shallow pool.
+The water came up to our waists.
+Along the edges of the pool were blue green tiles
+with handpainted pictures of birds and fish and flowers.
+Jeff was holding a multicolored beachball in his hands.
+I was wearing an old blue bathing suit that was a little too small for me.</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party19.html">
+<prolepsis>
+The Broadthrows own three houses - one here in Woodside,
+half an hours commute to BroadthrowMicro;
+one in Massachusetts, near Broadthrow headquarters;
+and "The Cottage" in New Hampshire, near BroadVentures.
+The Cottage has six bedrooms.
+
+The Woodside house sprawls sideways over a hilly wooded corner lot.
+It is painted a powdery, paint sample brown.
+Many balconies stick out from the structure.
+Inside, the floors are covered by dense blue grey carpets,
+and all the walls are painted pale pink.
+</prolepsis>
+</div>
+
+<div title="http://collection.eliterature.org/3/works/uncle-roger/party20.html">
+<analepsis>The Broadthrows spent the summer at the cottage in New Hampshire.
+I started working for them in August when Louise was in Paris
+and Tom was in Huntsville
+and Leslie, my predecessor, went unexpectedly to Mexico
+with the lifeguard at the lake.</analepsis>
+</div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party21.html">
+        <prolepsis>Tom Broadthrow was in Colorado Springs when Jeff Gallagher picked us up
+        -- Louise, Caroline, Mark, and me --
+        at the San Francisco airport two weeks ago.
+        Louise did not introduce me.
+        I reached for the back door handle.
+        Jeff's hand was there first.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party22.html">
+       <prolepsis>He is about 6'2". Brown hair. Boyish smile.
+        There is a sort of glow or halo about his head,
+        and when my hand touched his on the car door,
+        there was a wild reaction in my body
+        that I cannot explain.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party23.html">
+        <prolepsis>On the table was a large glass tray heaped with olives
+        -- green olives in the center, ringed with black olives, all sprinkled with parsley.
+        Beside me, a man and a woman were talking.
+        He said: "I don't want a blue rug in our house. I want a grey rug."
+
+        I put some olives on my plate.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party24.html">
+        <prolepsis>Mark was sitting on the couch with a plate of cheese balls in his lap.
+        Beside him, drinking white wine from a fluted plastic glass,
+        was a blond with green eyes. Short streaked hair in an elfin cut.
+        She was wearing a gold skirt with turquoise images of dancers
+        in a style of the fifties.
+        Shiny pink plastic shoes on her feet.
+        Mark's English teacher, Miss G.....</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party25.html">
+        <prolepsis>"I read about you in Mark's diary," she said.
+        "But of course I cannot tell you what he wrote."
+        There was an expression on her face
+        that I could not decipher.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party26.html">
+        <prolepsis>I dreamed that Jeff and I were lying on the sand
+        beside the water on a small island in Trinnywind harbor.
+        I had taken off my bathingsuit and was lying on my stomach.
+        Jeff was rubbing suntan lotion on my back
+        and down the backs of my thighs.</prolepsis>
+
+        <analepsis>"Do you know Jeff Gasllsgher?" I asked Jane at the party.
+
+        "A nice solid guy," said Jane. "Have you heard anything
+        from David? she asked, looking at me seriously
+        over the tops of her glasses.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party27.html">
+        <prolepsis>On a glass table were white plates loaded with warm mushroom sandwiches,
+        bottles of red and white wine,
+        stacks of plastic glasses.
+
+        Three men in tan suits were standing over the table,
+        eating mushroom sandwiches and talking.
+        I poured myself a glass of red wine.
+        "250 gigahearts," said one of the men.
+        At least that's what I think he said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party28.html">
+        <prolepsis>"I hear Broadthrow is hiring,"
+        said the man with iridescent green flecks in his tan suit.
+
+        "Yeah, and it looks like he's settling his family in for at least a year."
+
+        "I'd like to settle in to her,"
+        The man with the pink striped shirt beneath his tan suitjacket smiled at Louise.
+        She was putting rippled potato chips into a crystal bowl with a silver rim.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party29.html">
+        <prolepsis>I poured some more red wine into my plastic glass.
+        I lingered over the mushroom sandwiches
+        and the salmon roll that Puffy had licked.
+
+        The men in tan suits had lowered their voices.
+        I reached for a mushroom sandwich.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party30.html">
+        <prolepsis>In the dream, I went back to the long boat in Trinnywind harbor.
+        I went below. Louise was there with a bag full of tacos.
+        I looked out the window and saw a sign that said: "GIANT SANDWICHES".</prolepsis>
+
+        <prolepsis>(Louise does not eat tacos from a bag. It was a dream.
+        I am only writing what happened in the dream.)</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party31.html">
+        <analepsis>The sun was shining on some small islands
+        in Trinnywind harbor. The water was very blue.
+        My brother and I got into a rowboat and rowed out to a little island.
+
+        There was one tree on the island. My brother
+        had brought some bread and cheese and red wine,
+        and we sat on the warm sand and ate lunch.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party32.html">
+        <analepsis>I was eating a mushroom sandwich,
+        when I heard a noise from the large window beside the Broadthrow's front door.
+        Puffy was sitting on the windowsill, looking out the window and meowing.
+        There was a man outside the window, looking in.
+        It was Uncle Roger.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party33.html">
+        <prolepsis>Louise let Uncle Roger in.
+        Uncle Roger is vice president of a brokerage firm, Clark and Clark.
+        He's a semiconductor industry analyist.
+        He might even have been invited.
+
+        "Why Roger, I thought you were in New York.
+        What a nice tie," said Louise.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party34.html">
+        <prolepsis>My Grandfather Grandy is the other Clark in Clark and Clark.
+        Grandy speaks Latin fluently
+        and remembers things about the Greek and Persian Wars
+        that I have already forgotten even though I majored in history.
+        He asks me questions like "Would you like to discuss
+        Spartan naval strategies?"
+
+        Uncle Roger asks questions like
+        "Do you know the name of that woman in the red dress
+        who isn't wearing a bra?"</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party35.html">
+        <prolepsis>Uncle Roger was coming towards me.
+        He was wearing a bright red wool tie that Aunt Sally had knitted last Christmas.
+
+        I opened my mouth.
+        Uncle Roger put his finger to his lips and brushed past me,
+        pressing a note into my hand as he passed.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party36.html">
+        <prolepsis>The note Uncle Roger handed me said,
+        "Pretend you don't know me."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party37.html">
+        <prolepsis>Tom Broadthrow said, "Roger Clark! Great of you to come!"
+        Then he saw me. I was eating potato chips.
+        I had just stuffed Uncle Roger's note into my skirt pocket.
+        "Our babysitter must be a distant relative of yours - Jenny Clark."
+
+        "How do you do, Miss Clark," said Uncle Roger.
+
+        The doorbell rang again.
+        Tom left us standing over the tray of salmon cream cheese loaf and sour dough bread
+        that Puffy had licked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party38.html">
+        <prolepsis>"Destroy that note," said Uncle Roger quietly.
+        His breath smelled of Kentucky Fried Chicken.
+
+        "What are you up to?" I asked.
+
+        "I'm going to Haiti tomorrow," he whispered.
+        "I'll call you when I get back."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party39.html">
+        <prolepsis>He ate about 1/4 of the salmon cream cheese loaf,
+        from the end that Puffy hadn't licked.
+        "Where is the bathroom?" he asked.
+
+        "There are three upstairs," I said.
+        "The one that adjoins Tom and Louise's bedroom
+        is closest to the top of the stairs."
+
+        "Thank you", said Uncle Roger.
+        He put a large chunk of sourdough baguette into his pocket
+        and headed upstairs, whispering "Be careful, Jenny,
+        this is a dangerous household."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party40.html">
+        <prolepsis>I filled up my plastic glass with red wine.
+        The men in the tan suits were still talking.
+
+        "I hate all that togetherness shit,"
+        said the one with the pink striped shirt.
+        As he reached for a mushroom sandwich, his hand collided with my hand.
+        "Hi there," he said. "My name is ......" </prolepsis>
+        <prolepsis>(I can't remember what it was.)</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party41.html">
+        <analepsis>Jack and Jane had arrived.
+        By the bar that separates the kitchen from the dining room,
+        and was covered for the party with potato chips and bottles of booze
+        Louise was pouring Jack a drink.
+
+        Jane was sitting beside Caroline on the white couch,
+        wearing a plain navy blue cotton shirtdress and small silver earrings.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party42.html">
+        <prolepsis>Louise was standing too close to Jack,
+        who</prolepsis> <analepsis>just came out from Massachusetts to manage BroadthrowMicro.</analepsis>
+        <prolepsis>Tom joined them.
+
+        Jack is originally from Texas.
+        He looks like Elvis Presley might had looked if he had played a lot of football
+        and worn Brooks Brothers shirts.
+        I got a plate of cheese balls.
+
+        "The yield is down. I think we've lost the process," said Jack.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party43.html">
+        <prolepsis>I pictured a whole line of men in tan suits
+        scampering around on a stage, singing
+        "The yield is down. I think we lost the process."
+        The chorus was "We lost it in the submicron area,"
+        which is what Jack said next.
+
+        I ate some cheeseballs.
+
+        "Call Dennis and tell him to get out here right away," said Tom.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party44.html">
+        <prolepsis>Uncle Roger went out the front door.
+        He had a bottle of vodka tucked under his arm.
+        His pockets were bulging.
+        He had forgotten to zip up his fly.
+
+        "Good kitty," he said to Puffy as he left.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party45.html">
+        <prolepsis>Puffy usually sleeps here with me,
+        or on the top of Tom's white Mercedes.
+        She is lying on my pillow now, licking her fur
+        and purring loudly in my ear.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party46.html">
+        <analepsis>I sat down beside Caroline and Jane.
+        Caroline's napkin was on her pink lap in small pieces.
+        I noticed a grease spot on my skirt.
+        When I looked up, Louise was standing over us.
+        "Come on, Caroline," she said. "There are some people I'd like you to meet."
+        Caroline got up, scattering paper napkin on the thick rug.
+
+        "That old man said something wierd to me," she whispered.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party47.html">
+        <analepsis>I had supper last week with Jack and Jane.
+        Jack showed me around their new home in Sunnyvale.
+        Pink stucco arched doorways opened into gold wall to wall carpeting.
+        And on the walls there were electron microscope photographs.
+
+        It was a sunny California evening, and the front yard
+        was landscaped with cacti and rocks.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party48.html">
+        <prolepsis>While we were eating dinner,
+        Jack talked about their neighbors' motorboat.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party49.html">
+        <prolepsis>I moved a little closer to Jane on the white couch.
+
+        From Massachsetts, near where I grew up,
+        she has long brown hair, brown eyes, round glasses,
+        and a calm, pleasant face.</prolepsis>
+        <analepsis>She met Jack while she was working in a lab on route 128 in Boston.</analepsis>
+        <prolepsis>(I don't know why they fell in love.)</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party50.html">
+        <prolepsis>The den in Jack and Jane's house was panelled with brown plastic wood
+        and on the mantel there was a photograph of Jack and the Secretary of Defense.
+        "Did you have a good time on your neighbors' boat?" I asked Jane at the party.
+        Jane didn't answer.
+        She was looking at the table where the salmon loaf was situated.
+        Jack was talking to a women in a red patterned silk dress.
+        They were sharing cheese balls and stuffed cherry tomatoes.
+        As she reached for a cheese ball,
+        her hand touched his.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party51.html">
+        <prolepsis>I dreamed that Jeff and I were at a party on a cruise ship.
+        Rows of glasses shone in the sun on the shelves of the ship's mahogany bar.
+        I was disguised as a cigarette girl.
+        When I went to the bathroom, the Secretary of Defense was there.
+        He helped himself to a cigarette.
+        I was wearing a shiny green bathing suit.</prolepsis>
+
+        <analepsis>"Do you know Jeff Gallagher?" I asked Jane
+        at the party.
+
+        "A nice, solid guy," said Jane.
+        "Have you heard anything from David?" she asked,
+        looking at me seriously over the tops of her glasses.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party52.html">
+        <prolepsis>The woman who sat down on the couch beside Jane
+        was tall - at least 6 feet, squeezed into tight jeans
+        and a yellow fringed cowboy shirt with pearl buttons.
+
+        "Hi Jane," she said.
+        "I see that bitch Rose has got her hand on your husband's crotch
+        again."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party53.html">
+        <prolepsis>"I'm Dorrie - Jack's right hand at BroadthrowMicro.
+        That's Rose, his secretary."
+        She pointed to the woman in the red dress, who was eating cheese balls
+        and looking into Jack's eyes.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party54.html">
+        <prolepsis>Jane introduced me.
+        "You mean you work for both of them?"
+        Dorrie's laugh carried across the room.
+        The men in tan suits stopped talking and stared at her.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party55.html">
+        <prolepsis>In the dream, the bathroom had turned to a tropical garden.
+        I was surrounded by tall plants.
+        A chorus line of women in red dresses were dancing
+        for the Secretary of Defense.
+
+        The waiter serving drinks looked vaguely familiar.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party56.html">
+        <analepsis>"There are many stories in the Valley," said Dorrie.
+
+        She was easy to listen to. Jane and I sat quietly.
+
+        "Some are fairy tales, but there are nightmares.
+        Look into the nightmares and you'll see Tom Broadthrow's name
+        every other page."
+
+        I looked at Tom. He has a slight build, sandy hair and a pleasant smile.
+        "Why do you work for him?"
+
+        "Someone has to protect the girls on the line."</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party57.html">
+        <prolepsis>She rolled up her right sleeve,
+        flexed some impressive muscles, and said,
+        eying a husky male whose open shirt revealed
+        a commemorative Xerox PARC medallion,
+        "I don't know about you girls, but I'm horny."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party58.html">
+        <prolepsis>"Look at the size of his hands," said Dorrie.
+        "My mother always said to look for big thumbs."
+
+        "Big thumbs? I don't understand."
+
+        "If a man has big thumbs,
+        he probably has a big..........." said Dorrie.
+        To illustrate what she meant,
+        She made a sliding in and out gesture with her hands
+
+        "I have to go to the bathroom," said Jane.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party59.html">
+        <prolepsis>I was watching the door when Jeff came in.
+        He saw me sitting on the couch,
+        hiding the spot on my skirt with a plate full of cheese balls.
+
+        He smiled at me.
+
+        A warm flush spread slowly over my face.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party60.html">
+        <prolepsis>Jeff sat down beside me on the couch.
+        "Hello, Jenny," he said, "How do you like California?"
+
+        He had stray gray hairs in his thick brown hair
+        and big sloping shoulders.
+        I wanted to unbutton his shirt and kiss his stomach.
+
+        "I don't know," I said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party61.html">
+        <prolepsis>Puffy jumped into Jeff's lap.
+        We both patted her, and she purred happily.
+        He asked me why I had taken this job.
+        I told him that I wasn't sure what I wanted to do yet.
+        This job was giving me a chance to do some thinking,
+        to see another part of the country.
+        I didn't mention that</prolepsis> <analepsis>David had decided we shouldn't see each other for a while.</analepsis>
+
+        <prolepsis>Puffy licked the cheese balls on the plate on my lap.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party62.html">
+        <prolepsis>Jeff said</prolepsis> <analepsis>he had been born in San Jose and had lived there all his life.</analepsis>
+        <prolepsis>He told me that he had a small company,
+        but they weren't doing very well.
+        He said</prolepsis> <analepsis>he had designed a custom chip</analepsis> <prolepsis>which he thought was "pretty hot",
+        but they didn't have the money to produce it.</prolepsis>
+        <analepsis>He had tried to get money,</analepsis> <prolepsis>but times weren't very good right now.
+        He said</prolepsis> <analepsis>Tom Broadthrow's venture capital company had been interested,
+        but Tom had decided that the chip wouldn't be practical to produce.</analepsis>
+
+        <prolepsis>"I don't know why I'm telling you all this.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party63.html">
+        <prolepsis>Jeff kept talking about custom chips.
+        He got very excited.
+        I looked into his eyes which are brown.
+        I wanted him to keep talking.
+
+        "What is a custom chip?" I asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party64.html">
+        <prolepsis>Tom came over with a couple of bottles of beer in his hand.
+        "Good to see you, Jeff. How about a beer?"
+
+        Puffy jumped off Jeff's lap and ran under the couch.
+        Jeff took both beers and handed me one.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party65.html">
+        <prolepsis>Jeff kept on talking about semiconductors.
+        I lost track of time.
+
+        "Jenny, it's time for you to read Caroline her story,"
+        Suddenly Louise who was hovering over us.
+        "Why hello, Jeff.
+        There's some people I'd like you to meet."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party66.html">
+        <prolepsis>Caroline was sitting on a silver chair
+        staring at a painting of her father's first company
+        on the far wall.
+
+        As we headed up the stairs, Louise called after us:
+        "Jenny dear, you don't need to come back to the party."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party67.html">
+        <prolepsis>I read Caroline the chapter of Pride and Prejudice where Darcy
+        refuses to dance with Elizabeth.
+        Then I went back to the party to say goodnight.
+        As I walked into the room, Jeff and a woman who teaches at Stanford
+        were talking over the salmon roll.
+        She was wearing a velvet suit with a long skirt and a dark purple blouse.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party68.html">
+        <prolepsis>She was talking to Jeff, smiling into his eyes.
+        "Next Saturday. I'll be looking forward to it,"
+        she said, slicing off the end of the salmon roll
+        that</prolepsis> <analepsis>Puffy had licked.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party69.html">
+        <prolepsis>Jane said she would like to see my room.
+        We walked through the garage, past the two Mercedes,
+        and into my little room.
+
+        "Isn't there an extra bedroom in the house?" she asked.
+
+        I had some sherry and a couple of glasses.
+        I poured us some.
+        "I wish we were back home in Boston," she said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party70.html">
+        <prolepsis>The swimming pool in my dream
+        was surrounded by an ivy covered fence and large maple trees.
+        The grass was bright yellow-green.
+        Jeff tossed me the beach ball.
+        I dropped it.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party71.html">
+        <analepsis>On the bureau in his residence, Uncle Roger has a ceramic egg
+        with round eyes and a big smile painted on it.
+        The egg is sitting in a little basket full of yellow straw.
+        A small piece of paper about the size of a fortune cookie fortune
+        is stuck in the straw. It says,
+        "You'd be happy too, if you'd just been laid."</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party72.html">
+        <prolepsis>I wish I had some alka seltzer</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party73.html">
+        <analepsis>I dreamed that Jeff and I were lying on the sand
+        beside the water on a small island in Trinnywind
+        Harbor. I had taken off my bathingsuit and
+        was lying on my stomach. Jeff was rubbing suntan
+        oil on my back and down the sides of my thighs.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/party74.html">
+        <prolepsis>I dreamed I was in Venice, Italy.
+        I got a letter from Tom saying he was passing through Venice
+        and he wanted to see me.
+
+        I met him in the lobby of my hotel. He said
+        "Hello, Jenny," but he wasn't Tom. He was tall
+        and thin with black curly , greasy hair, and he
+        didn't look anything like Tom. We got into a
+        gondola. He was talking away as if he were Tom.
+        I didn't know what to say. When we got out of the
+        gondola, I said, "I'm sorry to have to say this,
+        but you're not Tom."
+
+        He said, "Yes I am."</prolepsis>
+    </div>
+
+    <!-- File 2 begins here -->
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue1.html">
+        I was down at the end of the last table.
+        There was no one to my right and no one
+        across from me.
+
+        It was Tom's birthday. He was at the head of the
+        table. Louise was sitting at his right. We were
+        sitting at four tables pushed together in a
+        restaurant in a hotel just off the highway that
+        runs down the East side of the South Bay.
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue2.html">
+        <prolepsis>The ceiling of the restaurant was painted with
+        dancing women. They wore purple and yellow
+        outfits, trays of painted fruit on their heads.
+        Strings of tiny Christmas tree lights were
+        stuck among the fruit.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue3.html">
+        <prolepsis>At the second table, Jack and Rose sat together.
+        A white jersey dress clung to her thighs.
+        Dorrie sat across from Rose.
+        The perfume Rose was wearing smelled like my
+        grandmother's back yard on an unseasonably
+        hot day in late spring.
+
+        Sitting next to Dorrie and across from Jack
+        was Uncle Roger.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue4.html">
+        <prolepsis>Three men in tan suits and Dennis, who wears his
+        hair in a long ponytail and is out here
+        from Albuqueque because of some crisis
+        at BroadthrowMicro, sat at the third table.
+
+        Uncle Roger was still pretending that he didn't
+        know me. He had on a tweed suit and a tie with
+        little pink hula dancers on it. Everytime he got
+        up to go to the buffet, he looked down
+        Louise's dress.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue5.html">
+        <prolepsis>We were eating lunch.
+
+        Heart shaped silver and red balloons were
+        tied behind Tom's chair. There was a platter
+        of curly fried potatoes and a small pile of presents
+        in front of him.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue6.html">
+        <prolepsis>Louise was putting her fork
+        into a pale jello salad with cherries in it.
+
+        "I've been to Hawaii. I got laid," said
+        Uncle Roger loudly.
+
+        He didn't look very tan.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue7.html">
+        <prolepsis>"Cute lifeguards with big muscles," he said inexplicably
+        to Tom's lawyer Mr. Draper,who was staring furtively at Jack's arms.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue8.html">
+        <prolepsis>The restaurant was separated from the hotel lobby
+        by low green marble planters filled with plants
+        with big shiny dark green leaves.
+        There was a pink and green patterned rug on the floor.
+        Through the leaves of the plants,
+        square cream-colored marble columns were visible in the lobby
+        A woman in a long red dress was playing the piano.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue9.html">
+        <prolepsis>Louise took one of Tom's presents from the pile.
+        "To Tom from everybody at BroadthrowMicro."
+        It was a flat rectangular package
+        wrapped in flowered paper and lime green stick-on bows.
+
+        Dennis was talking to the men in tan suits,
+        picking the shrimp out of his rice and
+        putting them in a neat pile on the edge of
+        his plate as he talked. "It's probably a photograph of Henry Kissenger,"
+        he said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue10.html">
+        <analepsis>A week ago, I was sitting at a small sticky table
+        outside a cafe, in San Jose.
+        It was my day off, and I was writing in the blue notebook.
+        It was a gray, overcast day,
+        not quite warm enough to be sitting outside.
+        The coffee was good. There was a jelly doughnut
+        on a paper plate in front of me.
+
+        I was writing about <analepsis>a trip I took last year with David.</analepsis></analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue11.html">
+        <prolepsis>The things I wrote in the blue notebook
+        didn't happen in exactly the way I wrote them.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue12.html">
+        <analepsis>David's apartment was one room
+        with a bathroom on one side and a very small kitchen
+        on the other side.
+
+        The floor of his apartment was covered with dirty
+        clothes and empty food wrappers.
+        Photos of people's picnics, weddings, and vacations
+        were tacked all over the walls. David worked in
+        a 24 hour photo processing store, and he took
+        home the pictures that he liked.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue13.html">
+        <prolepsis>I put on cut off dungarees and a sleeveless
+        blue shirt. Sally rubbed against my legs.
+
+        David had built a castle of catfood cans on the kitchen floor.
+        I opened a can and gave her some.
+
+        He was standing by the window
+        pulling on his pants. It was a Monday morning
+        in the middle of July, and he was already late
+        for work.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue14.html">
+        <prolepsis>I peeled an orange and went to the window.
+        We were standing by the window, eating pieces of the orange,
+        when we looked out and saw the blimp over the Square.
+        It was a large, silver blimp with no writing on it.
+
+        Attached to the bottom of the blimp,
+        was a huge photograph of Henry Kissinger.
+
+        "I think we should go to the lake," said David.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue15.html">
+        <prolepsis>I put some things that were in David's
+        refrigerator in a plastic bag. We put the
+        plastic bag, some clothes that were on the floor,
+        David's sleeping bag, his camera, and Sally
+        into his old black Buick. The only door
+        that opened was on the passenger side because
+        a steam roller had run into the driver's side.
+
+        We got into the car and started driving.
+        We were headed for a place up North
+        where David kept his boat.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue16.html">
+        <prolepsis>"Do you have any money?" he asked.
+
+        "Only about $5.00 ," I said.
+
+        He reached in his back pocket,
+        pulled out his wallet, and handed it to me.
+        "See if I've got any," he said.
+
+        David had over $50.00 in his wallet.
+        In a side pocket was a picture of Linda.
+        I took it out and looked at it. She was
+        wearing a white sun dress, and her long red hair was blowing around her face.
+        David was looking at the road.
+        I tore the picture into little pieces and
+        put it back in the pocket of his wallet.
+        "You have about $50.00," I said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue17.html">
+        <prolepsis>We had left the highway and were driving
+        along the edge of a steep rocky hill.
+        Houses with back porches protruding out over the rocks
+        were built into the hillside.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue18.html">
+        <prolepsis>There wasn't much traffic on the road.
+        "Maybe no one else saw it," I said.
+        It was hot in the car. I rolled down my window.
+        "It probably wasn't Henry Kissinger," said David.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue19.html">
+        <prolepsis>The houses on the hillside were made of gray weathered shingles.
+        Sally ran down the hill. I got out of the car
+        and ran after her, but she was very fast.
+        She was a small calico cat
+        and hard to see among the rocks.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue20.html">
+        <prolepsis>Three women were standing over a silver bucket
+        on a back porch above the rocks where Sally
+        was sitting. They shouted at each other
+        in a language which wasn't English. One women
+        reached into the bucket, pulled out a dead fish
+        and threw it down the hill. It went into a hole
+        between three rocks. Sally went after it, and I
+        caught her with the fish in her mouth.
+
+        David was leaning against the car
+        watching.
+
+        I put Sally in the back seat of the car with the
+        fish still in her mouth. It was a flat scaly
+        fish - about eight inches long. David said to
+        let her keep it.
+        She lay down on his sleeping bag.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue21.html">
+        <prolepsis>We were outside the town where David's parents
+        had their summer house. David's father
+        was a consultant in a military think tank.
+        David's mother liked to talk about laundry.
+        I was getting nervous.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue22.html">
+        <prolepsis>The cafe in San Jose faced a parking lot.
+        All around, the streets were torn up. The cafe was an oasis
+        in piles of dirt, stripped barriers, and plank walkways over excavations.
+
+        It was cold.
+        I stopped writing and finished the coffee.
+        There was some powdered sugar on my sweater. I brushed it off.
+
+        "Jenny."
+
+        I looked up. Jeff was standing there
+        with a plastic tray in his hands.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue23.html">
+        <prolepsis>I put the blue notebook in my pocketbook.
+
+        He set a styrofoam cup full of coffee and an oblong doughnut
+        on the table and sat down.
+        "I wanted to call you."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue24.html">
+        <prolepsis>It had been two weeks since</prolepsis> <analepsis>the party in Woodside.
+        Every time the phone rang, I had hoped it would be Jeff.</analepsis>
+
+        <prolepsis>He said: "My business with Broadthrow is going badly.
+        "I didn't want to call you there."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue25.html">
+        <prolepsis>Jeff told me that he grew up in San Jose
+        where his father owned a gas station.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue26.html">
+        <prolepsis>"And it turned out he hadn't backed up any of it,"
+        said a man in a tan suit and a thin blue tie
+        with gold stripes on it.
+
+        Tom untied the ribbon on the present
+        "from everybody at Broadthrowmicro".
+        "Did you pick this out?" he asked Dorrie.
+
+        Dennis said something softly to Dorrie.
+        She knocked over a double marguarita with her elbow.
+
+        "Rose picked it out, " said Jack.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue27.html">
+        <prolepsis>A waiter mopped up the area in front of Dorrie
+        with an unwieldy pink linen napkin.
+
+        Uncle Roger pushed his chair out from the table.
+        On his lap was a marguarita soaked magazine.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue28.html">
+        <analepsis>Uncle Roger and Grandy were both born in April.
+        Every year they had a birthday party together where
+        we all sat around a big table wearing
+        pointed silver hats. Uncle Roger
+        did his imitation of a German U-boat commander,
+        and he and Grandy gave out small presents
+        such as fake dog throw up or
+        boxes containing naked plastic women.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue29.html">
+        <prolepsis>Louise took one of Tom's presents from the pile.
+        "To Tom from everybody at BroadthrowMicro."
+        It was a flat rectangular package
+        wrapped in flowered paper and lime green stick-on bows.
+
+        Dennis was talking to the men in tan suits,
+        picking the shrimp out of his rice and
+        putting them in a neat pile on the edge of
+        his plate as he talked. "It's probably a photograph of Henry Kissenger,"
+        he said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue30.html">
+        <prolepsis>The desk stand moved slowly around the table
+        for inspection
+        until it got to Uncle Roger.
+
+        He stood it beside his plate.
+        "Excuse me ," he said
+        getting up from the table.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue31.html">
+        <analepsis>Louise took one of Tom's presents from the pile.
+        "To Tom from everybody at BroadthrowMicro."
+        It was a flat rectangular package
+        wrapped in flowered paper and lime green stick-on bows.
+
+        Dennis was talking to the men in tan suits,
+        picking the shrimp out of his rice and
+        putting them in a neat pile on the edge of
+        his plate as he talked. "It's probably a photograph of Henry Kissenger,"
+        he said.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue32.html">
+        <prolepsis>I needed to go to the bathroom.
+        I followed green and pink carpeted corridors,
+        opened the door to the ladies room.
+
+        Inside, the walls were distressed pink, and the tiles on the floor
+        were the color of mountain stone.
+        Uncle Roger was lying on the couch
+        drinking a margarita.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue33.html">
+        <prolepsis>"This is the ladies room, Uncle Roger, " I said.
+
+        "I know. I've been waiting to talk with you."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue34.html">
+        <prolepsis>There was no one in the ladies room except
+        Uncle Roger and me.
+        Uncle Roger finished his magarita.
+        He set the empty glass on a chrome shelf
+        under the green marble bordered mirror.
+
+        He said: "Your father asked me to watch over you."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue35.html">
+        <prolepsis>"No he didn't," I said. I went to the sink and
+        removed the pink paper from a bar of hotel soap.
+
+        "I paid for your college tuition," Uncle Roger said,
+        patting me on the shoulder.
+
+        "Mom paid for college, " I said.
+
+        "Yes, but I gave her the money."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue36.html">
+        <prolepsis>I dropped the soap.
+        It clattered loadly on the tiled floor.
+
+        "I want to talk with you about Jeff Gallagher and Tom Broadthrow,"
+        Uncle Roger said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue37.html">
+        <analepsis>Jeff and I sat talking at the table outside the cafe.
+        I had no idea what time it was.
+        My hands lay on the table a few inches from his.
+        Dark hairs curled on his wrists.
+        Our fingers were almost touching.
+
+        Simultaneously, we stopped talking
+        and looked at the table.
+
+        "I've got to get back to work ," he said.
+        "Would you like to stop by and see my company.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue38.html">
+        <prolepsis>In the Broadthrow's white Pontiac,
+        I followed Jeff's pickup truck onto the highway.
+        We drove North for what seemed forever,
+        pulled into a driveway where grey buildings were clustered closely together.
+        A sign in the parking lot said "MicrArt."
+        We went in.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue39.html">
+        <prolepsis>No one was sitting in the green chair
+        behind the front desk in the MicrArt lobby.
+        A tower of advertisements on 4"x6" cards
+        balanced precariously on top of
+        several blue and white boxes with letters and numbers
+        printed on their sides. We walked through a door
+        into a vast expanse of gray cement floors.
+        There were no windows.
+        Rows of benches were covered with black and silver equipment; piles of cables;
+        boxes of small objects encrusted with wires;
+        microscopes; tv screens;
+        clear plastic boxes with holes in them; surgical gloves.
+        In the back exposed pipes
+        alternated with ten foot tall machines.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue40.html">
+        <prolepsis>Four or five women were bent at intervals over the benches,
+        peering through microscopes, putting
+        white plastic gloved hands in the holes in the plastic boxes
+        looking intently at grainy black and white pictures on tv screens.
+        They were all wearing white coats like doctors wear.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue41.html">
+        <prolepsis>A woman not much more than 5 feet tall,
+        stood up. Her lab jacket,
+        stained with grease or coffee,
+        reached almost to the floor.
+        "Really fucked up!" she said.
+
+        Jeff scowled at an overhead tv screen.
+        "Bumps on the chips," he said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue42.html">
+        <prolepsis>A poster of Ronald Reagan with Bonzo
+        in the move Bedtime for Bonzo
+        was tacked next to a faded list
+        of warnings about the hazardous effects of various substances.
+
+        I studied the Snickers Bars,
+        peanut butter and cheese crackers, Cheezits, and
+        Reese's peanut butter cups
+        in a vending machine against the wall.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue43.html">
+        <prolepsis>Next to the vending machine
+        on an old typing table
+        was a Mr. Coffee machine containing an
+        almost empty pot of coffee which smelled
+        like it had been there since yesterday.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue44.html">
+        <prolepsis>"Jenny, I've got to take care of a problem, " Jeff said.
+
+        "I'll go now, " I said.
+
+        "Please wait, " he said.
+        His eyes were dark brown</prolepsis>.
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue45.html">
+        <prolepsis>He took me to a cluttered office.
+        "I'll be back in five or ten minutes.
+        You are welcome to play with the computer."
+
+        I pulled the blue notebook out of my pocketbook
+        and started to write.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue46.html">
+        <analepsis>David didn't say anything about stopping to see
+        his parents, but we turned off the road,
+        and in five minutes
+        we were pulling into their driveway.
+
+        The driveway was empty, and there was no laundry
+        on the line.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue47.html">
+        <prolepsis>It was a smoothly finished log cabin with red trim
+        and windowboxes full of well controlled geraniums.
+
+        The front door was open. We walked in.
+        "Hello, " David said.
+
+        There was no answer.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue48.html">
+        <prolepsis>He shut the door behind us,
+        reached out and put his hand on the zipper
+        of my shorts. He pulled my zipper down,
+        and put his hand in under my panties.
+        With his other hand, he unbuttoned my shirt.
+
+        "Where are your parents?" I asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue49.html">
+        <prolepsis>He picked me up and carried me to the leather couch
+        in front of the fireplace.
+        On the couch, he climbed on top of me
+        and parted my legs.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue50.html">
+        <prolepsis>I noticed that there were placards of service
+        from the Heritage Foundation, The John Birch Society,
+        and the Catholic League of Decency
+        on the mantel of the cabin.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue51.html">
+        <prolepsis>Afterwards, we lay quietly on the couch.
+        David reached over and turned on the radio.
+        There was bad news.</prolepsis> <analepsis>Six more blimps with photographs of Henry Kissenger
+        had been sighted over the downtown area.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue52.html">
+        <prolepsis>He took me in his arms again,
+        his lips were on my mouth; his hands on my breasts.
+
+        The front door opened.
+
+        "David are you home?"
+        I heard his mother say.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue53.html">
+        <prolepsis>"What are you writing, Jenny?"
+        Jeff was back, standing in the doorway of his office.
+
+        "Nothing much," I said.
+        I put the blue notebook
+        in my pocketbook and stood up.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue54.html">
+        <prolepsis>He stood there looking at me.
+        "This isn't how I wanted things to happen," He said.
+        He had put on a lab coat and was trying awkwardly to unbutton it.
+
+        The telephone rang. No one answered it.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue55.html">
+        <prolepsis>He reached behind him and closed the office door.
+        Putting his hands on my waist, he pulled me
+        gently towards him. He put his lips on mine.
+        I felt my legs go weak.
+
+        The telephone was still ringing.
+
+        He pulled me closer, stroking my hair while
+        he kissed me again and again.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue56.html">
+        <prolepsis>In the ladies room of the hotel restaurant,
+        I dried my hands. The soap was still on the floor.
+
+        "Jeff?" I said, feeling the color rise on my
+        cheeks as I turned to face Uncle Roger.
+
+        Uncle Roger reached into his pocket and pulled out
+        a small chip. It was less than an inch long -
+        covered with colored ridges and gold lines.
+        "What's that?" I asked.
+
+        "It's a knock off of the chip Jeff designed
+        and Tom stole, " he said.
+        There was a piece of rice stuck between
+        his front teeth.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue57.html">
+        <prolepsis>Uncle Roger handed me the chip. I grasped it
+        tentatively. He reached down, picked up the soap
+        and put it in his pocket.
+        I heard footsteps in the corridor.
+        "Let's talk somewhere else," I said.
+
+        "How about in here," he said,
+        stepping into one of the toilet stalls.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue58.html">
+        <prolepsis>I went into an adjacent stall and closed the door.
+        "I don't understand, " I said.
+        I was still holding the chip.
+
+        Two women entered the ladies room,
+        and stood by the mirror.
+        I could see their shoes
+        a pair of shiny black high heels and a pair of
+        red leather jogging shoes.
+
+        "I had it knocked off in Haiti, " he whispered.
+        "Wonderful isn't it?"
+
+        The women were talking.
+        "There aren't any men in the bar."
+        "Let's go somewhere else."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue59.html">
+        <prolepsis>"Broadthrow is hung up on the process
+        and I've got a million of them coming off the line in Haiti."
+        Uncle Roger was dancing around in the toilet stall
+        humming "fast fast fast" softly to himself.
+        I could see his black shoes and brown socks
+        moving on the pink tiled floor.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue60.html">
+        <prolepsis>"But Uncle Roger isn't that illegal?" I asked.
+
+        "You don't understand the semiconductor business,
+        my dear child." He flushed the toilet.
+
+        "I think I'm in love with Jeff Gallagher,"
+        I said.
+
+        "There's a nice young stockbroker in our San Francisco office
+        I want you to meet, " said Uncle Roger.
+        "And by the way,
+        I've arranged for you to start work there next week."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue61.html">
+        <prolepsis>The toilet in my stall was new and clean.
+        It smelled of disinfectant.
+        "I don't want to work in your office
+        and what's the matter with Jeff
+        besides the fact that you just ripped him off?" I whispered angrily.
+
+        "Broadthrow stole Gallagher's design.
+        I merely helped myself to some things I found in Broadthrow's study
+        the night of that party in Woodside," said Uncle Roger.
+        "The trouble with Jeff Gallagher is that he's not a good businessman."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue62.html">
+        <prolepsis>"I have two pieces of advice for young women:
+        No. 1 - It's what's up front that counts.
+        You may have some difficulty with that one."
+
+        "No. 2 -it's not what you know that counts,
+        but who you know." Uncle Roger smiled at me. "You'll be our new file clerk."
+
+        "I don't want to be a file clerk," I said.
+
+        "My dear, when this all breaks, Broadthrow's sure to find out
+        you're my niece. He has a large detective agency working for him.
+        You must get out of Woodside. I'm going back to Haiti."
+
+        But you told everyone you were in Hawaii."
+
+        "I lied " said Uncle Roger.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue63.html">
+        <prolepsis>The women at the ladies room mirror were whispering to each other.
+        "Those guys in tan suits are kind of cute."
+
+        Uncle Roger bounded out of the toilet stall.
+        Did I hear you say you were looking for men?"</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue64.html">
+        <prolepsis>Uncle Roger left with the two women.
+        Or rather, they left very quickly and
+        he followed.
+
+        Slipping the chip in my front shirt pocket,
+        I opened the toilet stall door.
+        I turned on the cold water and ran it slowly
+        until the sink was very full. Then I put
+        both hands in and splashed cold water repeatedly
+        over my face.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue65.html">
+        <analepsis>As I headed up the hill to Woodside, I was
+        anticipating a few quiet hours.
+        Caroline and Mark were still at school.
+        Louise was supposed to be shopping.
+
+        I pulled into the Broadthrow's driveway.
+        There was a familiar looking old black Buick
+        parked a little up the hill.
+        David was leaning against his car, reading
+        a green book with GUIDE TO THE CALIFORNIA
+        COASTLINE printed in large black letters
+        on the cover. "Hi Jenny," he said.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue66.html">
+        <prolepsis>I stood with my back to the door of
+        Broadthrow's white Pontiac.
+
+        David laid the book down on the hood of his car.
+        "I've been driving for 3 days
+        I really wanted to see you," he said.
+        He walked towards me still talking.
+        "I've been waiting for you for hours.
+        I've got a picnic. Let's go to the beach."
+
+        "I don't know," I said. He had on old jeans and
+        looked like he hadn't shaved for several days.
+
+        "Please " he said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue67.html">
+        <prolepsis>The beach was empty except for
+        a dog and a man; (the man throwing sticks into the water;
+        the dog chasing them)
+
+        David had a large paper bag with him.
+        Inside was a bottle of Italian red wine,
+        two tin coffee cups, a loaf of French bread
+        broken in two halves,
+        and a wedge of nondescript cheese.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue68.html">
+        <prolepsis>He opened the wine with a Donald Duck commemorative corkscrew.
+        "Are you mad because I didn't
+        want to see you for a while?" he asked</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue69.html">
+        <prolepsis>He poured us each a glass of wine.
+        The sun had come
+        out. The waves lapping on the
+        shore sounded just like</prolepsis> <analepsis>the waves at the beach on the North shore
+        where David and I had had a picnic like this
+        last summer.</analepsis>
+
+        <prolepsis>"How's Linda?" I asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue70.html">
+        <prolepsis>David's wine glass fell over.
+        A stream of red wine soaked the sand.
+        He righted the glass carefully,
+        sticking its stem deep into the sand.
+
+        "How did you know about Linda?" he asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue71.html">
+        <prolepsis>Cold water dripped down my face.
+        I looked at myself
+        in the mirror of the ladies room.
+        David wanted me to go back East with him.
+        I was having dinner with Jeff next Monday.
+        Uncle Roger wanted me to be a file clerk.
+
+        Water splashes had left dark spots on the front
+        of my gray sweater. I took off the silver
+        barrette which held my hair away from my face,
+        and put it in my pocketbook.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue72.html">
+        <prolepsis>I walked slowly back to the table in the restaurant,
+            thinking about</prolepsis> <analepsis>how Linda and David had looked
+        the night I drove by David's apartment
+        and saw them coming out together.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue73.html">
+        <prolepsis>The translucent desk stand
+        engraved with a scene of boats and clouds and birds
+        had stopped at my place.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue74.html">
+        <prolepsis>As I leaned over to pick it up,
+        Uncle Roger's chip fell out and bounced
+        on the floor beside Dennis
+        just as two waiters brought in a white cake
+        with pink candles and pink flowers on it and
+        "Happy Birthday Tom" written across the top
+        in green frosting letters.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/blue75.html">
+        <prolepsis>Everybody started singing "Happy Birthday"
+        except Dennis and me:
+
+        Dennis reached down and picked up the chip.
+        He looked at it closely, holding it in the palm
+        of his hand. There was a pile of uneaten shrimp
+        on his plate.
+
+        He handed the chip to me and joined in on the chorus.</prolepsis>
+    </div>
+
+    <!-- File 3 begins here -->
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/scene.html">
+        In the room where I work, there are
+        about twenty desks, called "stations".
+        A computer takes up most of the space at
+        each station. Each computer has a
+        black screen which rests on a gray case,
+        and a keyboard which is attached to the
+        computer by a cord, like those cords which
+        hold the two pieces of telephones together.
+        They call the computers "terminals".
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/101.html">
+        <prolepsis>I looked up at the clock. It was 4:15.
+        I was supposed to finish the shopping center
+        report by the end of the day, but there were still
+        thirty pages left. Some of them had intricate
+        tables which compared attendance at various
+        shopping centers at different times.
+        My eyes hurt. It was hard to keep them open.
+        I felt like putting my head down on the desk
+        beside the computer.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/102.html">
+        <prolepsis>At the front of the room, under a round clock,
+        the Supervisor, was writing in the notebook
+        which she locked in her top desk drawer
+        every evening at 5:00 before she went home.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/103.html">
+        <prolepsis>I dreamed I was sitting at a small desk
+        in the back of a room. There was an
+        enormous central processing unit and a
+        computer keyboard on the desk in front of me.
+        I was typing the results of a study of
+        visitors to the El Cerrito Plaza shopping center.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/104.html">
+        <prolepsis>Everything I typed on the keyboard
+        showed up on a large screen
+        which filled the entire wall at the front of the room.
+        Five men in tan suits were sitting around the screen,
+        watching the words as I typed them in.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/105.html">
+        <prolepsis>My fingers felt heavy and wooden,
+        and they moved on the wrong keys. Instead of
+        THE EL CERRITO PLAZA VISITORS STUDY,
+        I typed THE EL CERRITO PIZZA VIOLATORS STUDY.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/106.html">
+        <prolepsis>On the long table in the Broadthrow's living room,
+        there were silver plates piled with cookies
+        shaped like stars, bells, and snowmen.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/107.html">
+        <analepsis>What I type on the keyboard appears in green
+        on the screen which is called the monitor.
+        When the screen is full, the letters
+        scroll up somewhere inside the machine.
+        The woman at the station to my left is typing steadily.
+        Her husband is an IBM salesman, and she
+        keeps his picture in a small silver frame
+        beside her computer.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/108.html">
+        <prolepsis>The egg salad sandwich was made with soft
+        white bread. Some of the filling oozed out
+        and fell on the computer keyboard
+        between f9 and f10.
+        I reached in my pocketbook to get a napkin to
+        wipe it up, but there wasn't one.
+        I tore off a small piece of the brown paper bag
+        which the sandwich came in.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/109.html">
+        <prolepsis>Caroline was passing around a silver tray
+        laden with hot cheese puffs. Dennis offered Dorrie
+        a star-shaped cookie topped with red and green sugar.
+        I took a cheese puff. "Hi, my name is Jake,"
+        said a man in a tan suit.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/110.html">
+        <analepsis>The lunch room is a small rectangular room
+        with no windows. There is a sink and a counter
+        with a Mr. Coffee machine at one end of the room.
+        At the other end, there is a refrigerator and
+        a microwave oven.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/111.html">
+        <prolepsis>Most of the women who work in the room where I work
+        eat their lunch in the lunch room. They
+        keep frozen tv dinners in the freezer
+        compartment of the refrigerator, and at lunch
+        time, they heat them up in the microwave.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/112.html">
+        <prolepsis>"Press esc to hyphenate consu-mer."
+        The computer beeped loudly.
+        I didn't wanted to hyphenate consumer,
+        so I pressed f2 instead.
+        "Press esc to hyphenate consu-mer,"
+        the computer screen flashed again, beeped loudly.
+        The Supervisor looked up from her notebook.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/113.html">
+        <prolepsis>"It's an FX-7000G ," said one of the men
+        in tan suits. He pulled a thin calculator
+        out of his pocket. The other two men leaned
+        over the calculator while he pushed some buttons.
+        Small grey graphs appeared
+        on the tiny green screen.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/114.html">
+        "It's an FX-7000G ," said one of the men
+        in tan suits. He pulled a thin calculator
+        out of his pocket. The other two men leaned
+        over the calculator while he pushed some buttons.
+        Small grey graphs appeared
+        on the tiny green screen.
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/115.html">
+        <analepsis>I pretended to read the help screen
+        while I took large bites of the sandwich,
+        making sure before each bite that
+        the Supervisor was absorbed in her notebook.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/116.html">
+        <prolepsis>The men in tan suits <analepsis>had unwrapped their
+        silver-coated butter</analepsis> and were carefully spearing
+        it with their forks.
+        The stewardess gave us each a small bag of
+        Hawaiian potato chips. "I've got some Haitian
+        chips," said Uncle Roger. His briefcase was open
+        on the plastic tray where the burrito had been.
+        Inside the briefcase were about ten ziplock plastic bags
+        full of small chips covered with tiny gold lines.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/117.html">
+        <prolepsis>"Its lasagna," said the stewardess,
+        handing the little pots of pasta
+        to the men in tan suits. On each tray,
+        beside the pot of lasagna was a piece of
+        yellow cake with white frosting.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/118.html">
+        <analepsis>I dreamed I was wearing a white lab coat
+        in a large room with concrete walls
+        and long rows of sliver and plexiglass
+        machinery. About 20 other women wearing
+        white labcoats were moving slowly around the room.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/119.html">
+        <prolepsis>In the center of the room in the dream,
+        there was a circular glass bin, about 6 feet high.
+        It was filled with several thousand chips.
+        I walked over to the bin and looked in.
+        Inside, giant blades, like those in a blender,
+        were moving slowly, grinding the chips
+        into small, powdery pieces.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/120.html">
+        <analepsis>I dreamed I was sitting at a small desk
+        in the back of a room. There was an
+        enormous central processing unit and a
+        computer keyboard on the desk in front of me.
+        I was typing the results of a study of
+        visitors to the El Cerrito Plaza shopping center.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/121.html">
+        <prolepsis>I slid the egg salad sandwich
+        out of the paper bag in my pocketbook.
+        It had been cut in half
+        diagonally and wrapped in cellophane.
+        The two halves were seperated with a
+        triangular shaped piece of cardboard.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/122.html">
+        <analepsis>Everything I typed on the keyboard showed up
+        on a large screen that filled the entire wall
+        at the front of the room. Five men in tan suits
+        were sitting around the screen,
+        watching the words as I typed them in.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/123.html">
+        <prolepsis>Uncle Roger smiled and started walking back
+        down the aisle.
+        "I keep mine in a PC fortress"
+        said a man in a tan suit.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/124.html">
+        <analepsis>In the lunch room, three women in grey
+        straight skirts were sitting around the table
+        eating microwaved frozen tv dinners.
+        "I had this mail merge all set up,
+        but when I sent it to the printer,
+        all the names and address were indented wrong."</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/125.html">
+        <analepsis>We came out into a clearing.
+        At the top of a hill covered with tall grass,
+        each stalk topped with a heavy bunch of brown seeds,
+        we stepped into an open field.
+        The grass came up to our knees. It was hot.
+        Jeff took off his jacket and tied it around his waist.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/126.html">
+        <prolepsis>Sun coming in the window woke me early.
+        I was curled up in Jeff's arms.
+        He was sleeping.
+        I turned over in his arms and nibbled his neck,
+        softly where his hair curled under his ear.
+        I ran my fingers gently down his chest, following
+        the line of his thick, dark hair.
+        I put my hands on his thighs.
+        He moaned softly in his sleep.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/127.html">
+        <analepsis>We were in the ruins of an old fort overlooking
+        San Francisco Bay. We stood there for a while
+        looking out through crumbled windows.
+        A few sailboats tossed in the rough blue green
+        water of the Bay. Jeff pulled me to him,
+        unbuttoning my blouse while he put his tongue
+        deep into my mouth. He took one of my hands
+        and guided it down to his crotch.
+        I sank to my knees and unzipped his pants.
+        Water soaked into my jeans where my knees
+        touched the ground.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/128.html">
+        <prolepsis>In my dream, there was a rectangular room
+        at the end of a long hall.
+        A picture window almost the size of the far wall
+        looked out on a stone platform
+        surrounded by green, close cut grass.
+        Two behaviorists were lying on the platform watching us,
+        as still as statues with yellow eyes.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/129.html">
+        <prolepsis>In the livingroom of the house where I grew up,
+        the wood floor was sparely covered with
+        two faded oval braided rugs.
+        I went to the window and looked out at the
+        snow-covered backyard.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/130.html">
+        <analepsis>Jack's arm was around Rose's waist.
+        He kissed her. His hand moved to her breast.
+        "I've been thinking of getting a dog,"
+        Dorrie said.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/131.html">
+        <prolepsis>I looked out the Broadthrow's window.
+        A white car drove up and stopped across the street.
+        Uncle Roger got out.
+        It was a sunny December Sunday afternoon in Woodside,
+        but he was wearing a long black overcoat,
+        and a black fakefur Russian hat.
+        In his hands he held a sprig of mistletoe
+        and a brown paper bag.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/132.html">
+        <prolepsis>Uncle Roger and Jeff followed me into my room.
+        I didn't have three chairs, so I sat on the edge of the bed.
+        "Uncle Roger has something he wants to tell you,"
+        I said to Jeff.
+        Uncle Roger reached into his pocket and pulled out
+        a chip covered with tiny gold lines -- like the chip
+        he had handed me in the bathroom of the hotel
+        where we celebrated Tom's birthday.
+        "Young man, does this look familiar?" he asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/133.html">
+        <prolepsis>"That's my chip," Jeff said to Uncle Roger
+        before he hit him.
+        "Yes," Uncle Roger said,
+        getting up slowly from the floor.
+        "But it was Tom Broadthrow who stole your design.
+        Admittedly, I ripped it off from him."
+
+        Uncle Roger began to discuss the details
+        of the chip in technical language
+        that I did not understand.
+
+        But Jeff did not stay to listen.
+        He exited, slamming the door behind him.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/134.html">
+        <prolepsis>Uncle Roger sat down on the couch beside Dorrie
+        and started to tell her a story about
+        a Priest, a Rabbi, and two Born Again Christians.
+        <analepsis>I'd heard it before.</analepsis>
+        Just as he got to the part about how they
+        went to a shopping center,
+        and argued about which store they would go to first,
+        Jeff strode through the front door of the Broadthrow's house
+        without ringing the bell.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/135.html">
+        <prolepsis>We had an absolutely wonderful time,"
+        said the woman with the pink sweater pulled down
+        over her straight gray skirt. There was a
+        tupperware bowl full of sliced carrots and celery
+        in front of her. "But it's been two weeks,
+        and he hasn't called me. What do you think
+        I should do?"</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/136.html">
+        <prolepsis>Jeff's face was white.
+        "You son of a bitch," he shouted.
+        He hit Tom squarely on the jar.
+        The glass of whiskey fell onto the floor
+        and broke into several pieces.
+        Whiskey oozed into the blue gray carpet.
+        Tom grabbed a bottle of Russian vodka and
+        threw it at Jeff. The bottle hit one of the silver
+        candlesticks on the mantle and broke into many pieces,
+        splattering vodka and fragments of glass
+        down the front of the marble fireplace.
+
+        Louise picked up the phone.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/137.html">
+        <analepsis>My fingers felt heavy and wooden, and they moved
+        on the wrong keys. Instead of THE EL CERRITO
+        PLAZA VISITORS STUDY, I typed
+        THE EL CERRITO PIZZA VIOLATORS STUDY.
+        It's January in San Francisco.
+        Through the windows that run along the East side
+        of the big room where I work as a word processor
+        for a market research firm,
+        I can see that the sun is shining outside.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/138.html">
+        <prolepsis>Jeff hit Tom again.
+        Tom staggered against the table,
+        squashing a row of plastic glasses.
+        His nose was bleeding.
+        "When they arrived at the shopping center,
+        they could not decide which store to go to first,"
+        Uncle Roger continued.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/139.html">
+        <prolepsis>"You bastard," Jeff said.
+        He grabbed the end of Tom's tie.
+        Tom picked up a plastic cup half full of eggnog
+        which was sitting on the edge of the table.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/140.html">
+        <analepsis>"I had this mail merge all set up,
+        but when I sent it to the printer,
+        all the names and address were indented wrong,"
+        said the woman, who was sticking her fork into
+        a frozen fettucini dinner.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/141.html">
+        <prolepsis>Three men in tan suits were standing
+        beside the Broadthrow's Christmas tree
+        with their hands full of cookies and eggnog.
+        "I have a LEADING EDGE," said the first one.
+        He was wearing a red striped shirt.
+        "2400 baud is the way to go," said the one
+        who was eating a sugar cookie shaped like Santa Claus.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/142.html">
+        <analepsis>I put 40 cents into the coffee money box
+        and poured some coffee from the Mr. Coffee machine
+        into a white styrofoam cup.
+        "I really like your shoes," said the woman
+        who wearing a straight gray skirt and
+        a matching gray jacket.
+
+        I was wearing red plastic sandals.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/143.html">
+        <prolepsis>I dreamed I was wearing a white lab coat
+        in a room with concrete walls
+        and long rows of sliver and plexiglass
+        machinery. About 20 other women wearing
+        white labcoats were moving slowly around the room.
+        In the center of the room, there was a circular
+        glass bin, about 6 feet high.
+        It was filled with several thousand chips.
+        I walked over to the bin and looked in.
+        Inside, giant blades, like those in a blender,
+        were moving slowly, grinding the chips
+        into small, powdery pieces.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/144.html">
+        <prolepsis>I dreamed that Jeff and I were standing
+        in a shallow pool. The water came up to our waists.
+        Along the edges of the pool were blue green tiles
+        with handpainted pictures of birds and fish
+        and flowers. Jeff was holding a big beachball
+        in his hands. I was wearing an old blue bathing suit
+        which was a little too small for me.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/145.html">
+        <prolepsis>Tom picked up another bottle of Russian vodka
+        and threw it hard at Jeff's head.
+        It missed.
+        It smashed through the big front window and
+        hurtled out into the Woodside hills.
+        I heard police sirens.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/146.html">
+        <analepsis>I combined the oil, egg, and milk
+        and stirred them into the cornmeal and sugar,
+        licking the wooden spoon to see what the batter
+        tasted like. Jeff came up quietly behind me.
+        Brushing my hair aside,
+        he kissed the back of my neck.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/147.html">
+        <prolepsis>Dennis was wearing faded blue jeans
+        and a red velvet jacket.
+        He came over to me, holding a beer.
+        "Ah, the girl with the chip. Tonight we match."
+        He put his red velvet sleeve next to the
+        red wool sleeve of my Christmas season dress.
+        "The sooner I get back to Albuquerque the better,"
+        he said. "Uhh - that chip? I never saw it."
+        He took a big swig of the beer,
+        and walked away.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/148.html">
+        <prolepsis>"Press esc to hyphenate consu-mer."
+        "Press esc to hyphenate consu-mer."
+
+        "beep beep beep beep"
+
+        The Supervisor looked up from her notebook.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/149.html">
+        <prolepsis>With their hands full of cookies and eggnog,
+        three men in tan suits were standing beside
+        the Broadthrow's Christmas tree, talking about their systems.
+        Dennis offered Dorrie another star shaped cookie.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/150.html">
+        <prolepsis>Uncle Roger came out of the kitchen,
+        a glass full of whiskey with
+        no ice in it in each of his hands.
+        Tom was lying on the floor
+        beside a table which was covered
+        with beer, wine, vodka, whiskey, and gingerale.
+        He was wearing a dark blue suit and a red tie
+        with small blue sailboats on it.
+
+        "Would you like a drink?" Uncle Roger asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/151.html">
+        <prolepsis>Small foil bags full of ribbon candy
+        hung on the boughs of the Broadthrow;s tree,
+        Beneath the tree,
+        were gold packages with red ribbons,
+        silver packages with pink ribbons,
+        packages wrapped in patterned papers,
+        bottles of wine and whiskey,
+        wooden baskets of cheese and sausages,
+        shipping containers packed with pears and apples,
+        enameled tins filled with fruit cake or cookies.
+        "I keep mine in a PC fortress,"
+        said one of the men in tan suits.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/152.html">
+        <prolepsis>The traffic on 128 has slowed to a crawl.
+        I turned on the car radio, switching stations
+        until I found one playing "The Little Drummer Boy".
+        The car windows kept fogging over inside.
+        My mother rubbed them with her mittens.
+        The heater in her car wasn't working.
+        I reached for the blanket in the back seat.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/153.html">
+        <analepsis>My present from Uncle Roger was
+        a round trip ticket to Boston.
+        On December 23rd, we flew home together.
+        "I'll bet Bruce has a bigger you know what,"
+        he said, fingering his cheek
+        which was still slightly black and blue
+        where Jeff had hit him.
+
+        I stared at an article about Donald Trump
+        in the Airline Magazine.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/154.html">
+        <prolepsis>"Bruce and I had a party once in a hot tub
+        with some stewardesses," said Uncle Roger.
+        Do you want to know how much money he makes?"</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/155.html">
+        <analepsis>I looked up at the clock. It was 4:15.
+        I was supposed to finish the shopping center report
+        by the end of the day, but there were still
+        thirty pages left. Some of them had intricate
+        tables which compared attendance at various
+        shopping centers at different times.
+        My eyes hurt. It was hard to keep them open.
+        I felt like putting my head down on the desk beside the computer.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/156.html">
+        <prolepsis>"I don't know why you won't come to work
+        for Clark and Clark," Uncle Roger said on the airplane.
+        "You can have your own office
+        with a blue rug
+        and a view of San Francisco Bay.
+        Bruce has some new underwear
+        with pictures of Christmas presents imprinted on it.
+        He is really looking forward to meeting you."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/157.html">
+        <analepsis>Jeff stepped towards me and started slowly
+        to unbutton my white dress.
+        It was warm in my apartment, and I wasn't wearing
+        anything underneath.
+        He unfastened all the buttons
+        that ran down the front
+        of the dress.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/158.html">
+        <prolepsis>The stewardesses were coming down the aisle
+        with metal carts full of plastic trays
+        containing beef stroganoff, lasagna, and
+        baked fish with cheese sauce. Uncle Roger was
+        half way through the super burrito he had brought
+        with him. Some guacamole and sour cream dripped
+        onto the red knit tie that <analepsis>Aunt Sally had made
+        him</analepsis>, and he wiped it up with a piece of the
+        airline magazine magazine that was in the seat
+        in front of him.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/159.html">
+        <analepsis>Dennis offered Dorrie a cookie
+        from the paper plate he was carrying around
+        which was loaded with cookies and cake.
+        She was wearing tight jeans and a lacy black top.
+        I put a cheese puff on my plate.
+        "Hi. My name is jake," said a man in a tan suit.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/160.html">
+        <prolepsis>The eggnog was thick and heavy like whipped cream
+        or marshmellow mixed with custard and rum.
+        A man in a tan suit reached out
+        and put his hand on a transparent
+        pink glass heart on the Christmas tree.
+        "It's an FX-70000," said one of the men
+        in tan suits. He pulled a long thin calculator
+        out of his pocket. The other two men leaned
+        over the calculator while he pushed some buttons.
+        Small gray graphs appeared on the calculator's
+        tiny green screen.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/161.html">
+        <prolepsis>The traffic on 128 has slowed to a crawl.
+        I turned on the car radio, switching stations
+        until I found one playing "The Little Drummer Boy".
+        The car windows kept fogging over inside.
+        My mother rubbed them with her mittens.
+        The heater in her car wasn't working.
+        I reached for the blanket in the back seat.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/162.html">
+        <analepsis>I opened the door. It was Jeff.
+        He was standing outside the door of my California apartment,
+        The blue and tan flannel shirt he was wearing
+        was rolled up at the sleeves.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/163.html">
+        <prolepsis>Jeff stood in the doorway, looking at me.
+        I was wearing an old white dress
+        that buttoned down the front.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/164.html">
+        <prolepsis>The swimming pool in my dream
+        was surrounded by an ivy covered fence
+        and large maple trees. The grass was bright yellow green.
+        Jeff tossed me the beach ball. I dropped it.
+        A car drove into the driveway.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/165.html">
+        <prolepsis>The hall was filled with winter coats on hooks.
+        Old tennis rackets and wooden skis from another era
+        leaned against the wall.
+        Buckle-up rubber boots and unmatching mittens
+        were piled in a big basket by the door.
+        Wool scarves hung on a coar tree beside the basket.
+        In the kitchen, my mother was heating red wine,
+        orange juice, sugar, and cinnamon
+        in an old aluminum pan.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/166.html">
+        <analepsis>Uncle Roger walked down the aisle of the plane.
+        He still had on his tweed suit jacket
+        and the red wool tie that <analepsis>Aunt Sally had knitted for him.</analepsis>
+        He was carrying his pants rolled up under his arm.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/167.html">
+        <analepsis>Puffy was up on the table,
+        licking eggnog out of a big silver bowl.
+        Plastic glasses and little red and green napkins
+        were spread out around her feet.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/168.html">
+        <analepsis>Every morning I stand in line to buy
+        a saran-wrapped sandwich
+        on white bread from the silver-coated truck
+        that pulls up between seven and eight
+        outside of the building where I work.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/169.html">
+        <prolepsis>The Broadthrow's blue spruce Christmas tree
+        reached almost to the ceiling.
+        It was covered with gold and pink ornaments
+        and spray-on snow.
+        At the top, white lights twinkled on and off
+        around the angel with the pink dress
+        and silver wings.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/170.html">
+        <analepsis>There was a half eaten sandwich on a plate on the floor.
+        Nearby, an industrial size wastebasket
+        was full of empty beer and diet pepsi cans.
+        Propped up on a floor
+        beside David's sleeping bag and his camera
+        was a copy of the same picture of Linda,
+        with her red hair blowing in the wind,
+        that <analepsis>I had torn into little pieces several months ago.</analepsis></analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/171.html">
+        <prolepsis>The eggnog was thick and heavy like whipped cream
+        or marshmallow mixed with custard and rum.
+        I was wearing a silk dress.
+        As if he wondered if it was real,
+        a man in a tan suit reached out
+        and placed his hand on a transparent,
+        pink and gold glass ornament on the Christmas tree.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/172.html">
+        <prolepsis>Uncle Roger and Tom came out of the kitchen
+        with large glasses full of whiskey with
+        no ice in it in their hands.
+        Tom leaned against a table which was covered
+        with beer, wine, vodka, whiskey, and gingerale.
+        He was wearing a dark blue suit and a red tie
+        with small blue sailboats on it.
+        A misunderstanding on the golf course,"
+        Uncle Roger said, touching the black and blue
+        place on his face where Jeff had hit him.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/173.html">
+        <analepsis>I dreamed that Jeff and I were standing in a
+        shallow pool. The water came up to our waists.
+        Along the edges of the pool were blue green tiles
+        with handpainted pictures of birds and fish
+        and flowers. Jeff was holding a big beachball
+        in his hands.
+        I was wearing an old blue bathing suit which
+        was a little too small for me.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/174.html">
+        <analepsis>I unwrapped the sandwich quietly with one hand,
+        while I pressed shift-f3 on the computer keyboard
+        with the other hand.
+        I pretended to read the help screen
+        while I took large bites of the sandwich,
+        making sure before each bite
+        that the supervisor was absorbed in her notebook.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/175.html">
+        <prolepsis>There was a large tray of buffalo chicken wings
+        on a marble coffee table
+        beside a silver candle holder with pink candles.
+        Uncle Roger was eating chicken wings,
+        one after another.
+        putting the bones in a small pile
+        beside some books about Van Gogh and Rembrandt.
+        He held up a bone as Louise walked by,
+        "Does this remind you of anything?" he asked.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/176.html">
+        <prolepsis>I listened to the radio on the way home to Woodside.
+        There was an old song they played that made me cry</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/177.html">
+        <prolepsis>"I need some exercise," said Uncle Roger,
+        squeezing past me into the aisle.
+        He walked up and down the aisle, bumping
+        into stewardesses. "I'm a frequent flyer,"
+        he said to the stewardess with the red hair who
+        was collecting half empty plastic food trays
+        a few rows behind us.
+        He flapped his arms like wings and pivoted around,
+        heading down the aisle the other way, still
+        flapping his arms.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/178.html">
+        <analepsis>In my dream, the men in tan suits
+        got up from the table and came slowly
+        down the aisle to my desk.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/179.html">
+        <prolepsis>I dreamed that Uncle Roger and I
+        were in Filene's basement in Boston.
+        Behind a dress rack, a woman
+        was trying on a pair of grey corduroy pants,
+        pulling them on up under her mini skirt.
+        Uncle Roger was with her,
+        his arms full of women's pajamas
+        with leopard and tiger skin patterns.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/180.html">
+        <prolepsis>I dreamed that David and I were walking along
+        an overgrown path. He walked ahead of me,
+        trampling the brush, making it easier for me to pass.
+        We came out into a clearing
+        at the top of a hill covered with tall grass.
+        Each stalk was topped with a heavy bunch of seeds.
+        We stepped into the field. The grass came up to our knees.
+        It was hot.
+        I took off my jacket, tied it around my waist.
+
+        David grabbed my arm and pointed to the right.
+        There was a large lion there,
+        sleeping in the sun.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/181.html">
+        <prolepsis>I dreamed I lived in an old farmhouse
+        on top of a hill in Vermont or New Hampshire.
+        I was sitting on the doorstep.
+        Six wild kittens who lived in the barn
+        were playing around my feet,
+        and they nibbled at my fingers with tiny sharp teeth
+        when I tried to pat them.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/182.html">
+        <prolepsis>There wasn't much furniture in my apartment.
+        The bed, which the previous tenant had left,
+        had broken springs which stuck out from holes on the mattress
+        and scratched my legs at night.
+        Jane was sitting on the edge of the bed, fighting back tears.
+        "I'm going back home," she said.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/183.html">
+        <prolepsis>We were driving North on 128.
+        The windshield wipers squeaked loudly
+        as they pushed off the heavy snow.
+        It was snowing hard. Through the windshield, the lights of other cars
+        were a diffused glow amidst the thick snow flurries.
+        It was very cold.
+        My mother was concentrating on the road,
+        and we didn't talk much.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/184.html">
+        <prolepsis>My brother strung the faded blue and white plaid
+        bathrobe belt that <analepsis>had belonged to our Dad</analepsis>
+        across the fireplace the was he did every
+        Christmas eve. On it, we hung our stockings,
+        pinning them with safety pins
+        from the family sewing basket.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/185.html">
+        <analepsis>My sandwich is in my pocketbook.
+        It is only ten o'clock,
+        but I'm already thinking about it.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/186.html">
+        <prolepsis>To make most things happen, you have to push other
+        buttons at the same time that you push the
+        f buttons. Holding down the shift key and the
+        f10 key loads a document into the computer.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/187.html">
+        <analepsis>David was sleeping on the floor
+        of his friend Robert's studio in Emeryville.
+        Robert was making a book of photographs about baseball caps,
+        David explained. He wasn't wearing a shirt.
+        The walls were covered with photographs of men in baseball caps.
+        Above me, a man wearing a baseball cap
+        was eating a piece of lemon cream pie.
+        Across his baseball cap's visor,
+        was a brilliantly colored picture of surf and a sunset.
+        The word "Hawaii" was embroidered
+        in yellow black-bordered letters.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/188.html">
+        <prolepsis>I dreamed that I was sitting on a bench in Civic Center Park.
+        I was wearing a dirty corduroy skirt.
+        My hair felt like it hadn't been washed for several weeks.
+        On the bench beside me, there was a brown paper bag
+        full of empty soda bottles that I had been collecting in the park.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/189.html">
+        <analepsis>"Those are really sexy shoes," David said.
+        One of his hands was still on my shirt pocket,
+        and he pulled me towards him. He unzipped
+        his pants.
+        "I think we should just be friends," I replied.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/190.html">
+        <prolepsis>On the long table in the Broadthrow's living room,
+        there were silver plates piled with cookies
+        shaped like stars, bells, and snowmen
+        In the middle of the table,
+        was a green frosted cake, shaped like a Christmas tree.
+        Beside it, there was a cheese ball studded with walnuts.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/191.html">
+        <prolepsis>Louise was wearing a pink satin dress,
+        It was a short dress, revealing, when she sat down,
+        translucent white stockings
+        with a lacy sknowflake pattern.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/192.html">
+        <prolepsis>Mark cut through the thick green frosting of the cake,
+        put a large slice on a paper plate
+        that had pictures of snowmen running around its rim.
+        "I have some photos of me surfing on my new surfboard," he said.
+        "They're in my room. Do you want to see them."</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/193.html">
+        <prolepsis>"You bastard," Jeff said.
+        He grabbed the end of Tom's tie.
+        Tom picked up a plastic cup half full of eggnog
+        which was sitting on the edge of the table.
+        A gold glass ornament shaped like a
+        French horn fell off the tree and broke
+        into little pieces.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/194.html">
+        <prolepsis>My mother's house was white with black shutters
+        and a peeling barn door.
+        It faced a path that once must have been a street.
+       <analepsis>Someone had shoveled the path, piling the snow on
+        the sides so it was waist high.</analepsis> I walked to
+        the door, carrying my blue duffel bag.
+        A battered snow shovel was leaning against
+        one of the white columns on the front porch.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/195.html">
+        <prolepsis>The tiles on the bathroom floor were freezing cold.
+        I wrapped myself in a faded blue bath towel.
+        It was slightly damp and smelled like the cellar
+        where my mother usually dried the laundry
+        on a clothesline which stretched from the furnace
+        to the door of the room where my brother
+        did experiments with his chemistry set.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/196.html">
+        <analepsis>We were sitting in the modern aisle.
+        I was on the outside. Two men in tan suits
+        were beside Uncle Roger. He was showing them
+        some things in the Wall Street Journal.
+        The two tiny bottles he had brought
+        with him in the pocket of his raincoat
+        were protruding from the plastic bag
+        where the airline magazines and the throw-up bags
+        were kept. "Those are nice socks
+        you men are wearing," he said.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/197.html">
+        <prolepsis>Uncle Roger pulled a big, long, white
+        parcel out of his other pocket. He pulled down
+        the tray in front of him, and unwrapped the
+        package. It was a super burrito.
+        "Carnitas with extra guacamole,"
+        he said. "Would you like a bite?"</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/198.html">
+        <analepsis>I dreamed that a baseball game had just finished.
+        All the seats on the BART car were filled with
+        men and women wearing green and yellow
+        baseball caps.
+        Jeff and I stood close together. In the
+        gentle forward motion of the train,
+        He was pressed against me by men with thermos bottles.</analepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/199.html">
+        <prolepsis>The Christmas tree, a hemlock with fine,
+        flat needles, was so big that
+        it almost touched the ceiling.
+        It was Christmas eve. <analepsis>My mother
+        had put red candles in silver candlesticks
+        in the window.</analepsis> There was a bowl of popcorn on the
+        floor beside the tree. My brother was eating it.</prolepsis>
+    </div>
+
+    <div title="http://collection.eliterature.org/3/works/uncle-roger/END.html">
+        <analepsis>Uncle Roger smiled. "By the way Jenny," he said.
+        "I signed the company that I formed with his design
+        over to Jeff"
+        He disappeared in the throng of people
+        at the exit gates.
+
+        "Get away from me you dirty old man," a woman
+        in a blue uniform yelled from the area
+        where the guards and the x-ray machines
+        were located. Uncle Roger reappeared.
+
+        "Merry Christmas!" he shouted,
+        blowing us a kiss.
+
+        THE END</analepsis>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text>

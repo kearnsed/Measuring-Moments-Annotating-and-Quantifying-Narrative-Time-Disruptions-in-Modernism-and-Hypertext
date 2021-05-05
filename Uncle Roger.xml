@@ -1,14 +1,5 @@
 <text>
 
-<!-- Could also use "id" as an attribute instead of "title". Making <div> higher than <analepsis> allows
-for flexibility as to whether the entire lexia is an analepsis (or prolepsis) or not.
-This implies that there can be a unviersal time-setting across multiple lexias.
-In the case of Uncle Roger, this time settng is Jenny sitting in the garage room remembering the party.
-At least for the first section of the work.
-But how to practically account for the fact that any lexia can be an analepsis or a prolepsis or both?
-Need a map of which lexias are linked to from which lexias.
-Also need to add to schema: the ability to nest analepsis and prolepsis inside one another. -->
-
 <div title="http://collection.eliterature.org/3/works/uncle-roger/party1.html">
 <analepsis>I drank too much red wine.</analepsis>
 The Broadthrow's party is looping in my mind,

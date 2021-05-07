@@ -58,7 +58,7 @@
     <div title="3 - Flaming Gorge">
         Flaming Gorge
     </div>
-    <!-- Should the above be classed as first-degree narrative level? Because they are given by the over-all, modern (meta-)narrator, rather than by Powell or Bradley. But they are not narration, just place names. -->
+    
 
     <div title="3 - N">
         <level degree="2">In mapping the unknown, we name it for generations to come. Some places we name for their beauty. Others we name because they are markers of of what we have faced and what others will surely face again, although perhaps these places have already been named long before in other tongues.</level>
@@ -753,7 +753,6 @@
     </div>
 
     <div title="19">
-        <!-- Go back and check for analepsis/prolepsis in these. -->
         <level degree="1">How to picture the Great Unknown? The illustrations that Powell
         incorporates into his later publications about the famous pioneer
         journey are fabricated through the imagination of artists or adapted

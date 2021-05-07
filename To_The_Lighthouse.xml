@@ -51,9 +51,7 @@ that fabled land where our brightest hopes are extinguished, our frail
 barks founder in darkness (here Mr. Ramsay would straighten his back<pb/> and
 narrow his little blue eyes upon the horizon), one that needs, above all,
 courage, truth, and the power to endure.</fid>
-<!-- This sounds like it could be changing to Mr Ramsay's free indirect discourse
-towards the end, even though it is part of the same sentence as details that definitely
-come from James. -->
+
 
 "But it may be fine--I expect it will be fine," said Mrs. Ramsay, making
 some little twist of the reddish brown stocking she was knitting,
@@ -238,8 +236,6 @@ an early marriage; poverty; going to India; translating a little poetry
 "very beautifully, I believe," being willing to teach the boys Persian or
 Hindustanee, but what really was the use of that?--and then lying, as they
 saw him, on the lawn.</fid>
-<!-- FID rather than SOC here because it is decription of dialogue rather than
-internal thoughts. -->
 
 <fid PERS="Tansley">It flattered him; snubbed as he had been, it soothed him that Mrs. Ramsay
 should tell him this. Charles Tansley revived.</fid> Insinuating, too, as she
@@ -262,8 +258,7 @@ lions, tigers ... Craning forwards, for she was short-sighted, she read it
 out ... "will visit this town," she read. It was terribly dangerous work
 for a one-armed man, she exclaimed, to stand on top of a ladder like
 that--his left arm had been cut off in a reaping machine two years ago.</fid>
-<!-- This instance of FID is the closest one to SOC yet - I will need to
-add PERS as an attribute of the SOC element as well as the FID one. -->
+
 
 "Let us all go!" she cried, moving on, <fid PERS="Mrs. Ramsay">as if all those riders and horses
 had filled her with childlike exultation and made her forget her pity.</fid>
@@ -331,7 +326,7 @@ growing all the walk, had begun in the garden when he had wanted to take
 her bag, had increased in the town when he had wanted to tell<pb/> her
 everything about himself, he was coming to see himself, and everything he
 had ever known gone crooked a little. It was awfully strange.</fid>
-<!-- Again, should be annotated as SOC from Tansley's perspective. -->
+
 
 <fid PERS="Tansley">There he stood in the parlour of the poky little house where she had taken
 him, waiting for her, while she went upstairs a moment to see a woman. He
@@ -542,7 +537,7 @@ that one had to watch for it and it was a delight when it came, a fountain
 of white water; and then, while one waited for that, one watched, on the
 pale semicircular beach, wave after wave shedding again and again
 smoothly, a film of mother of pearl.</soc>
-<!-- Possibly the perspective of both Lily and William here? -->
+
 
 They both smiled, standing there. <soc PERS="Lily">They both felt a common hilarity,
 excited by the moving waves; and then by the swift cutting race of a
@@ -788,9 +783,7 @@ there was nothing to be said. He had cancer of the throat.</analepsis> </soc> At
 recolection--<analepsis>how she had stood there, how the girl had said, "At home the
 mountains are so beautiful," and there was no hope, no hope whatever,</analepsis> she
 had a spasm of irritation, and speaking sharply, said to James:
-<!-- Not using prolepsis here for the retunrn from the analepsis to the main narrative,
-because an anachrony is a deviation (right?), so here the only anachrony is the
-analepsis, the rest is just the regular flow of the narrative. It is interrupted. -->
+
 
 "Stand still. Don't be tiresome," so that he knew instantly that her
 severity was real, and straightened his leg and she measured it.
@@ -1521,9 +1514,7 @@ her, as after a dream some subtle change is felt in the person one has
 dreamt of, more vividly than anything she said, the sound of murmuring</analepsis>
 and, as she sat in the wicker arm-chair in the drawing-room window she
 wore, to Lily's eyes, an august shape; the shape of a dome.
-<!-- Would be good to analyse the language of this memory, either in terms of
-close reading or topic-modelling, sentiment analysis, syntax. Is it more
-reflective / contemplative than other passages? -->
+
 
 This ray passed level with Mr. Bankes's ray straight to Mrs. Ramsay sitting
 reading there with James at her knee. But now while she still looked,
@@ -2958,8 +2949,7 @@ was now shut off by panes of glass, which, far from giving<pb/> any accurate
 view of the outside world, rippled it so strangely that here, inside
 the room, seemed to be order and dry land; there, outside, a reflection
 in which things waved and vanished, waterily.
-<!-- Woolf's prose when not connected to a character is more ethereal, more
-concerned with light, glass, faces. It's beautiful. -->
+
 
 Some change at once went through them all, as if this had really
 happened, and they were all conscious of making a party together in a
@@ -2978,8 +2968,7 @@ and at that instant, Minta Doyle, Paul Rayley, and a maid carrying a
 great dish in her hands came in together. They were awfully late; they
 were horribly late, Minta said, as they found their way to different
 ends of the table.
-<!-- Interesting to see Lily and Mrs. Ramsay being interwoven here, the two
-central characters of the novel, with similar thoughts in this paragraph. -->
+
 
 "I lost my brooch--my grandmother's brooch," said Minta with a sound of
 lamentation in her voice, and a suffusion in her large brown eyes,
@@ -3319,8 +3308,7 @@ and more serene; until, oh, what a pity that they should do it--a hand
 reached out, took a pear, and spoilt the whole thing. In sympathy she
 looked at Rose. She looked at Rose sitting between Jasper and Prue.
 How odd that one's child should do that!
-<!-- Very like Lily here - thinking of objects as shapes and shadows,
-upset when someone disrupts the equilibrium. -->
+
 
 How odd to see them sitting there, in a row, her children, Jasper,
 Rose, Prue, Andrew, almost silent, but with some joke of their own
@@ -4507,7 +4495,7 @@ finished that picture.</analepsis> She would paint that picture now. It had been
 knocking about in her mind all these years. Where were her paints, she
 wondered? Her paints, yes. <analepsis>She had left them in the hall last night.</analepsis>
 She would start at once. She got up quickly, before Mr. Ramsay turned.
-<!-- Possible inverse proportion between length of analepsis and likelihood that it is in the past perfect tense? -->
+
 
 She fetched herself a chair. She pitched her easel with her precise
 old-maidish movements on the edge of the lawn, not too close to Mr.

@@ -1,7 +1,6 @@
 <text>
 
 CHAPTER I
-<!-- note: invalid, need to define 'text' element. Other problems in schema with 1st, 2nd, 3rd degree narration -->
 
 
 1
@@ -14,8 +13,7 @@ be quiet in her room. She could sit by the fire and be quiet and think
 things over until Eve and Harriett came back with the parcels. She would
 have time to think about the journey and decide what she was going to
 say to the Fraulein.</fid>
-<!-- These sentences mark a change from reporting of objective facts to speculation
-about conditional future possibilities that can only come from Miriam's mind. -->
+
 
 Her new Saratoga trunk stood solid and gleaming in the firelight.
 <fid>To-morrow it would be taken away and she would be gone. The room would
@@ -36,8 +34,7 @@ tune. It was early to-day.
 She drew back from the window as the bass chords began thumping gently
 in the darkness. <fid>It was better that it should come now than later on, at
 dinnertime. She could get over it alone up here.<fid>
-<!-- More internal, more revelatory of Miriam's thoughts than the earlier fid tag?
-Or should they all be soc? -->
+
 
 She went down the length of the room and knelt by the fireside with one
 hand on the mantel-shelf so that she could get up noiselessly and be
@@ -102,8 +99,7 @@ Miriam took the parcel and subsided on to the hearthrug, looking with a
 new curiosity at <fid>Harriett's little, round, firelit face, smiling tightly
 beneath the rim of her hard felt hat and the bright silk bow beneath her
 chin.</fid>
-<!-- fid here because it is a description of Harriett's face, which objectively exists,
-but the descritption is coloured by Miriam's subjective perception. -->
+
 
 A footstep sounded on the landing and there was a gentle tap on the open
 door.
@@ -529,10 +525,7 @@ For hours she had lain despairing, watching the slowly swaying walls
 of her cabin or sinking with closed eyes through invertebrate dipping
 spaces. Before each releasing paroxysm she told herself ``this is like
 death; one day I shall die, it will be like this.''</analepsis>
-<!-- These two paragraphs are probably the truest example of analepsis so far.
-The narrative as a whole moves backwards and maintains this, and some of the descriptions are
-less subjective than in Miriam's earlier memories. Even though of course it
-is still Miriam's memory. -->
+
 
 She supposed there would be breakfast soon on shore, a firm room and a
 teapot and cups and saucers. Cold and exhaustion would come to an end.
@@ -643,8 +636,7 @@ dreadfully good.... <analepsis>Fraulein's grave face... her perfect knowledge of
 every rule... her clear explanations in English ... her examples....</analepsis> All
 these things were there, in English grammar.... And she had undertaken
 to teach them and could not even speak German.
-<!-- Not sure about the prolepsis here, as it's Miriam imagining a potential future
-event, rather than the narrative moving forward to describe a future event that actually occurs. -->
+
 
 <analepsis>Monsieur... had talked French all the time... dictees... lectures... Le
 Conscrit... Waterloo... La Maison Deserte... his careful voice reading
@@ -942,9 +934,7 @@ proximity. She was evidently a special kind of French girl--a Protestant
 from East France--Besanon--Besanon--Miriam had tried the pretty word
 over until unexpectedly she had fallen asleep.
 
-They had risen hurriedly in the cold March gloom</analepsis><!-- Is this, and the memory-within-memory
-in the previous section, a change in narrative level? Or is the repeated, nested use
-of analepsis a more accurate description? --> and Miriam had not
+They had risen hurriedly in the cold March gloom</analepsis> and Miriam had not
 spoken to her since. There she sat, dainty and quiet and fresh. White
 frillings shone now at the neck and sleeves of her little grey dress.
 She looked a clean and clear miniature against the general dauby effect
@@ -959,11 +949,7 @@ mouth--Miriam mused... frugal--John Gilpin's wife--how sleepy she was.</analepsi
 3
 
 
-<!-- Problem with chapter breaks - I've been closing tags and opening new ones
-at chapter breaks, but I see now it makes more sense to keep the tags open when the same instance
-of analepsis is still occurring, as is the case here. It's still an analepsis,
-but it's not a new analepsis, it's not travelling further back in time, which opening a new analepsis
-tag would suggest. --> The conversation was growing boisterous. <fid>She took courage to raise her
+The conversation was growing boisterous. <fid>She took courage to raise her
 head towards the range of girls opposite to her. Those quite near to her
 she could not scrutinise. Some influence coming to her from these German
 girls prevented her risking with them any meeting of the eyes that was
@@ -2107,7 +2093,7 @@ with until she had hated the sound of the words.</analepsis> How did it go on? `
 Blatt aus sommerlichen Tagen,'' she breathed in a half whisper. Minna
 heard</fid>--and without looking up from her writing quietly repeated the
 verse. Her voice rose and trembled slightly on the last line.
-<!-- Disconnection from grammar is the reason for SOC tag here - the sentences that trail off. -->
+
 
 ``Oh, chuck it, Minna,'' groaned Bertha Martin.
 
@@ -2642,7 +2628,7 @@ and very<pb/> black and white at the head of the schoolroom table. His black
 beard and dark eyes as he sat with his back to the window made his face
 gleam like a mask. He had spoken very rapidly as he told the girls the
 life-story of some poet.</analepsis>
-<!-- This could probably also be a story within a story. -->
+
 
 
 
